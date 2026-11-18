@@ -13,7 +13,7 @@ I build the frontends that enterprise teams grow on, and I leave every codebase 
 
 ### Work worth opening
 - **[angular-philosophies](https://github.com/tomavic/angular-philosophies)**: my Angular 22 style guide from real projects, with rules files AI coding tools can follow. [Read it](https://tomavic.github.io/angular-philosophies/).
-- **[angular-ui-library-monorepo](https://github.com/tomavic/angular-ui-library-monorepo)**: accessible Angular components that work right to left, with colour contrast checked in tests. [Storybook](https://tomavic.github.io/angular-ui-library-monorepo/).
+- **[enigma-ui](https://github.com/Enigma-tech-labs/enigma-ui)**: the design system of my company, Enigma Technology Lab. Plain CSS tokens measured to 7:1 contrast in tests, Arabic and English, and a package per framework, starting with Angular.
 - **[module-federation-space](https://github.com/tomavic/module-federation-space)**: micro-frontends on Native Federation, a shell and two remote apps sharing one signal store. [Live demo](https://tomavic.github.io/module-federation-space/).
 - **[ng-nx-enterprise-monorepo](https://github.com/tomavic/ng-nx-enterprise-monorepo)**: an Nx admin portal built in tagged lessons, ending with a step-by-step upgrade from Angular 18 to 22 and a move from NgRx to signals.
 - **[cordova-apple-wallet](https://github.com/tomavic/cordova-apple-wallet)**: adds payment cards to Apple Wallet from a hybrid app. Listed in Awesome Cordova Plugins (formerly Ionic Native).
